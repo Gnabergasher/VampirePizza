@@ -411,7 +411,7 @@ if program_running:
         end_surf = end_font.render(f'YOU WIN, A TRUE PIZZA WARRIOR', True, WHITE)
     GAME_WINDOW.blit(end_surf, (350,200))
     display.update()
-    sleep(15)
+    sleep(2)
 
 
 
